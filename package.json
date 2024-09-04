@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "jmheathy": "file:",
     "vue": "^3.4.37"
   },
   "devDependencies": {
